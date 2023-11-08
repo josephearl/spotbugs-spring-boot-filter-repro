@@ -1,0 +1,13 @@
+pluginManagement {
+  repositories {
+    gradlePluginPortal()
+  }
+}
+
+dependencyResolutionManagement {
+  repositories {
+    mavenCentral()
+  }
+}
+
+rootProject.name = 'spotbugs-spring-boot-filter-repro'

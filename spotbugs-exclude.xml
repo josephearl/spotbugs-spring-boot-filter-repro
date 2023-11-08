@@ -1,0 +1,6 @@
+<FindBugsFilter>
+    <Match>
+        <Bug pattern="PI_DO_NOT_REUSE_PUBLIC_IDENTIFIERS_CLASS_NAMES"/>
+        <Class name="com.example.Example"/>
+    </Match>
+</FindBugsFilter>
